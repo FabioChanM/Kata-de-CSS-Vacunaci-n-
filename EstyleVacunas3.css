@@ -1,0 +1,86 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #ffffff;
+   }
+
+#parte4{
+    display: flex;
+}
+
+.lefthside4{
+    background: #ffffff;
+    height: 100vh;
+    width: 50%;
+    float: left;
+font-size: 20px;
+}
+.rightside4{
+    background: url(doctor.png);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 100vh;
+    float: left;
+
+}
+.tituloazul3{
+  font-size: 50px;
+    color: rgba(15, 15, 119, 0.815);
+    width: 500px;
+}
+.texto3{
+    font-size: 20px;
+    color: rgba(26, 26, 163, 0.815);
+    font-family: sans-serif;
+    width: 500px;
+    margin: auto;
+
+}
+#contenedor{
+float: left;
+
+
+}
+div.contenido{
+ height: 170px;
+ width: 170px;
+ border: 5px solid #fffcfc;
+ float: left;
+ margin: 20px;
+ font-size:auto;
+ font-family: sans-serif;
+ text-align: center;
+
+}
+
+.botonp{
+    text-decoration:none;
+    font-weight: 600;
+    font-size:auto;
+    color:#002b7c;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:20px;
+    padding-right:20px;
+    background-color: transparent;
+    border-width: 3px;
+    border-style: solid;
+    border-color: #a4acee;
+    background: #a4acee;
+    text-align: center;
+    }
+
+    .tituloazul4{
+        font-size: 20px;
+          color: rgba(15, 15, 119, 0.815);
+          width: 300px;
+          text-align: center;
+      }
+
+      .lefthside5{
+        background: #7496e0;
+        height: 100vh;
+        width: 50%;
+        float: left;
+    font-size: 20px;
+      }
